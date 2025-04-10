@@ -40,6 +40,3 @@ This project follows the **Medallion Architecture** model:
 
 ---
 
-## 📁 Project Structure
-
-
