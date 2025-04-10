@@ -13,7 +13,7 @@ This project follows the **Medallion Architecture** model:
 - **Silver Layer**: Cleaned and transformed data using PySpark notebooks on Azure Databricks.
 - **Gold Layer**: Business-ready data curated for analytics and consumed by Power BI or Synapse Analytics for reporting.
 
-![Architecture Diagram]([https://github.com/Siva-Sanam/Adventure_Works_Spark_Medallion_Architecture_Azure_Project/blob/main/projectarchitecture.png])
+<img src="projectarchitecture.png">
 
 ---
 
